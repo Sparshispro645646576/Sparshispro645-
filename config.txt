@@ -1,0 +1,1 @@
+{"ip":"LifeDie69.aternos.me","name":"lifesteal ser","port":32586
